@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image3.jpg</filename>
+	<path>/home/constantin/Projects/ungc/logo_detection/images/image3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>793</width>
+		<height>1120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>un_logo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>921</ymin>
+			<xmax>165</xmax>
+			<ymax>1004</ymax>
+		</bndbox>
+	</object>
+</annotation>
